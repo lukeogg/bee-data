@@ -1,8 +1,8 @@
 
 # Igmore all images
 ###################
-**/*.jpg
-**/*.gif
+#**/*.jpg
+#**/*.gif
 
 # VSCode files
 ##############
